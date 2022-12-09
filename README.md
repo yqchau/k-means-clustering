@@ -3,7 +3,7 @@
 <div align="center" >
   <img src="media/visualization.gif" alt="visualization" width="480" height="408">
 </div>
-The above shows K-Means Clustering of 1000 randomly sampled points with k=3. Each point & the initial centroid are sampled from a normal distribution of X~N(0, 100*100). The points are iteratively reassigned to the cluster of the nearest centroid; The coordinates of the centroids are then calculated using the average of all it's members after each iteration.
+The above shows K-Means Clustering of 1000 randomly sampled points with k=3. Each point & the initial centroid are sampled from a normal distribution of X~N(0, 100*100). The points are iteratively reassigned to the cluster of the nearest centroid; The coordinates of the centroids are then calculated using the average of all its cluster members.
 
 
 
